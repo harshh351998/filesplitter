@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c75e15c8-6f6b-475f-aaa8-1eda902acc9e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/setup.py" beforeDir="false" afterPath="$PROJECT_DIR$/setup.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/file_splitter_harsh-1.0.0-py3-none-any.whl" beforeDir="false" afterPath="$PROJECT_DIR$/dist/file_splitter_harsh-1.0.0-py3-none-any.whl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/file_splitter_harsh-1.0.0.tar.gz" beforeDir="false" afterPath="$PROJECT_DIR$/dist/file_splitter_harsh-1.0.0.tar.gz" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

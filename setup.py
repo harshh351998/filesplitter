@@ -11,6 +11,7 @@ setup(
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
     url="https://github.com/harshh351998/filesplitter.git",
+    download_url = "https://github.com/harshh351998/filesplitter/archive/refs/tags/1.0.0.tar.gz" ,
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
