@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c75e15c8-6f6b-475f-aaa8-1eda902acc9e" name="Changes" comment="#01:- file splitter feature for text file developed." />
+    <list default="true" id="c75e15c8-6f6b-475f-aaa8-1eda902acc9e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,7 +65,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739965180662</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="#01:- file splitter feature for text file developed.">
+      <option name="closed" value="true" />
+      <created>1739965239754</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1739965239754</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
