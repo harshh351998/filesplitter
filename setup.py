@@ -10,7 +10,7 @@ setup(
     description="A simple Python library to split large text files into smaller parts.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/filesplitter",
+    url="https://github.com/harshh351998/filesplitter.git",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
