@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+file_splitter/__init__.py
+file_splitter/splitter.py
+filesplitter.egg-info/PKG-INFO
+filesplitter.egg-info/SOURCES.txt
+filesplitter.egg-info/dependency_links.txt
+filesplitter.egg-info/top_level.txt
+tests/__init__.py
+tests/test_splitter.py
